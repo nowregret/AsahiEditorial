@@ -1,4 +1,4 @@
-package getEditorial;
+package getInfo;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -9,7 +9,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class GetEditorial {
+public class GetInfo {
 	public static void main(String[] args) {
 		try {
 
